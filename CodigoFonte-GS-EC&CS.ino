@@ -46,7 +46,7 @@ void loop() {
     delay(3000);
     digitalWrite(BUZZER_PIN, LOW);
   }
-//configuração para regular temperatura
+//Configuração para regular temperatura
   RawValue = analogRead(TEMP_SENSOR_PIN);
   double voltage = (RawValue / 1023.0) * 5000;
   tempC = (voltage - 500) / 10.0;
