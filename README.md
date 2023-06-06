@@ -26,3 +26,10 @@ Quando iniciada a simulação do projeto pelo tinkercad é necessário modificar
 - Vitor Reyes Souza                            RM:550766
 - Luis Serafin Bezagio Mendieta                RM:551588
 - Pedro Augusto Carneiro Barone Bomfim         RM:99781
+
+# Link para o projeto no Tinkercad
+https://www.tinkercad.com/things/f9VnqVrfyyk-projeto-gs-edge-computing/editel?sharecode=YBbJnlCspuaAXCTciPCYAQeZo0WMgX1S2mxPtufU2mw
+
+# Imagem do projeto:
+![image](https://github.com/eojotape/Global-Solution-EC-CS/assets/126830164/38993bc8-2fb1-446a-863a-749217889979)
+![image](https://github.com/eojotape/Global-Solution-EC-CS/assets/126830164/99a1e43e-59a6-431e-9416-52521d2ec90b)
